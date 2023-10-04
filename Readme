@@ -12,3 +12,12 @@ To add Flutter_web3
 
 Now Run server by type in the command: flutter run -d web.server 
 
+if you got any problem in running it: Try this command 
+
+flutter upgrade
+flutter config --enable-web
+flutter run -d chrome
+
+If you want to change the chain just go to metamask.dart 
+
+& change the number according to your need: static const operatingChain = 1;  
