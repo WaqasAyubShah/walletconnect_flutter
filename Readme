@@ -1,0 +1,14 @@
+Hello Hello Hello!
+
+Welcome to Wallet Connect in flutter.
+
+Download this repo 
+
+we have two dependencies: 
+1) run cmd : flutter pub add flutter_web3 
+To add Flutter_web3 
+
+2) install: provider extension 
+
+Now Run server by type in the command: flutter run -d web.server 
+
