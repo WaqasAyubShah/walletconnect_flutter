@@ -4,6 +4,7 @@ Welcome to Wallet Connect in flutter.
 
 Download this repo 
 
+
 we have two dependencies: 
 1) run cmd : flutter pub add flutter_web3 
 To add Flutter_web3 
@@ -17,6 +18,7 @@ if you got any problem in running it: Try this command
 flutter upgrade
 flutter config --enable-web
 flutter run -d chrome
+
 
 If you want to change the chain just go to metamask.dart 
 
